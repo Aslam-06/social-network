@@ -32,7 +32,7 @@ Clone the repository and install dependencies:
 git clone https://github.com/Aslam-06/social-network.git
 cd social-network
 npm install
-npm react-hook-form
-npm react-bootstrap
-npm bootstrap
+npm i react-hook-form
+npm i react-bootstrap
+npm i bootstrap
 npm run dev
