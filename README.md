@@ -1,12 +1,38 @@
-# React + Vite
+# Mini Social Network
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A small social network application that allows users to sign up, log in, and interact by posting, liking, and commenting on posts.
 
-Currently, two official plugins are available:
+## Table of Contents
+- [Description](#description)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Author](#author)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Description
+This project is a Mini Social Network designed to demonstrate full-stack development skills with authentication, user interaction, and a modern front-end interface.
 
-## Expanding the ESLint configuration
+## Features
+- User authentication (Sign up / Log in)
+- Posting messages
+- Liking posts
+- Commenting on posts
+- Responsive UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+- Front-end: React, React-bootstrap
+- Testing: React Testing Library
+- Tools: VS Code, Git, GitHub, Render deployment
+
+## Installation
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/Aslam-06/social-network.git
+cd social-network
+npm install
+npm react-hook-form
+npm react-bootstrap
+npm bootstrap
+npm run dev
